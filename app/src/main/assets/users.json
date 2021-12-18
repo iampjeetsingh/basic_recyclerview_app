@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Eric Yuan",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743195,width-700,height-525,imgsize-343710/1-eric-yuan-ceo-of-zoom-video-communications.jpg",
+    "about": "CEO of Zoom Video Communications"
+  },
+  {
+    "id": 2,
+    "name": "Brian Halligan",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743218,width-700,height-525,imgsize-54553/2-brian-halligan-ceo-of-hubspot.jpg",
+    "about": "CEO of HubSpot"
+  },
+  {
+    "id": 3,
+    "name": "Sundar Pichai",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743235,width-700,height-525,imgsize-181067/3-sundar-pichai-ceo-of-google.jpg",
+    "about": "CEO of Google"
+  },
+  {
+    "id": 4,
+    "name": "Satya Nadella",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743242,width-700,height-525,imgsize-609484/4-satya-nadella-ceo-of-microsoft.jpg",
+    "about": "CEO of Microsoft"
+  },
+  {
+    "id": 5,
+    "name": "Shantanu Narayen",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743249,width-700,height-525,imgsize-21079/5-shantanu-narayen-ceo-of-adobe.jpg",
+    "about": "CEO of Adobe"
+  },
+  {
+    "id": 6,
+    "name": "Ryan Smith",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743258,width-700,height-525,imgsize-23677/6-ryan-smith-ceo-of-qualtrics.jpg",
+    "about": "CEO of Qualtrics"
+  },
+  {
+    "id": 7,
+    "name": "Patrick Pacious",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743270,width-700,height-525,imgsize-187183/7-patrick-pacious-ceo-of-choice-hotels.jpg",
+    "about": "CEO of Choice Hotels"
+  },
+  {
+    "id": 8,
+    "name": "Tim Cook",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743279,width-700,height-525,imgsize-21632/8-tim-cook-ceo-of-apple.jpg",
+    "about": "CEO of Apple"
+  },
+  {
+    "id": 9,
+    "name": "Annette Brüls",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743287,width-700,height-525,imgsize-315760/9-annette-brls-ceo-of-medela.jpg",
+    "about": "CEO of Medela"
+  },
+  {
+    "id": 10,
+    "name": "Vlad Shmunis",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743301,width-700,height-525,imgsize-48533/10-vlad-shmunis-ceo-of-ringcentral.jpg",
+    "about": "CEO of RingCentral"
+  },
+  {
+    "id": 11,
+    "name": "Robert Frist Jr.",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743313,width-700,height-525,imgsize-566341/11-robert-frist-jr-ceo-of-healthstream.jpg",
+    "about": "CEO of HealthStream"
+  },
+  {
+    "id": 12,
+    "name": "Mitch Snyder",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743324,width-700,height-525,imgsize-27763/12-mitch-snyder-ceo-of-bell.jpg",
+    "about": "CEO of Bell"
+  },
+  {
+    "id": 13,
+    "name": "Ian Siegel",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743333,width-700,height-525,imgsize-21631/13-ian-siegel-ceo-of-ziprecruiter.jpg",
+    "about": "CEO of ZipRecruiter"
+  },
+  {
+    "id": 14,
+    "name": "Daniel Dines",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743343,width-700,height-525,imgsize-13516/14-daniel-dines-ceo-of-uipath.jpg",
+    "about": "CEO of UiPath"
+  },
+  {
+    "id": 15,
+    "name": "Lynn Jurich",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743351,width-700,height-525,imgsize-67739/15-lynn-jurich-ceo-of-sunrun.jpg",
+    "about": "CEO of Sunrun"
+  },
+  {
+    "id": 16,
+    "name": "Manny Medina",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743357,width-700,height-525,imgsize-24432/16-manny-medina-ceo-of-outreach.jpg",
+    "about": "CEO of Outreach"
+  },
+  {
+    "id": 17,
+    "name": "Bert Bean",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743368,width-700,height-525,imgsize-19453/17-bert-bean-ceo-of-insight-global.jpg",
+    "about": "CEO of Insight Global"
+  },
+  {
+    "id": 18,
+    "name": "John Foley",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743380,width-700,height-525,imgsize-49184/18-john-foley-ceo-of-peloton.jpg",
+    "about": "CEO of Peloton"
+  },
+  {
+    "id": 19,
+    "name": "Dan Rosensweig",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743390,width-700,height-525,imgsize-32092/19-dan-rosensweig-ceo-of-chegg.jpg",
+    "about": "CEO of Chegg"
+  },
+  {
+    "id": 20,
+    "name": "Henry Schuck",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743394,width-700,height-525,imgsize-100836/20-henry-schuck-ceo-of-zoominfo.jpg",
+    "about": "CEO of ZoomInfo"
+  },
+  {
+    "id": 21,
+    "name": "Carlos Rodriguez",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743398,width-700,height-525,imgsize-20331/21-carlos-rodriguez-ceo-of-adp.jpg",
+    "about": "CEO of ADP"
+  },
+  {
+    "id": 22,
+    "name": "Doug Mack",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743400,width-700,height-525,imgsize-51751/22-doug-mack-ceo-of-fanatics.jpg",
+    "about": "CEO of Fanatics"
+  },
+  {
+    "id": 23,
+    "name": "Steve Bilt",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743404,width-700,height-525,imgsize-19266/23-steve-bilt-ceo-of-smile-brands.jpg",
+    "about": "CEO of Smile Brands"
+  },
+  {
+    "id": 24,
+    "name": "Kenneth Lin",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743405,width-700,height-525,imgsize-74641/24-kenneth-lin-ceo-of-credit-karma.jpg",
+    "about": "CEO of Credit Karma"
+  },
+  {
+    "id": 25,
+    "name": "John Van Siclen",
+    "imageUrl": "https://www.businessinsider.in/thumb/msid-79743408,width-700,height-525,imgsize-10387/25-john-van-siclen-ceo-of-dynatrace.jpg",
+    "about": "CEO of Dynatrace"
+  }
+]
